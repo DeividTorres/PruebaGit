@@ -1,8 +1,28 @@
-#post {
-    background: rgb(255, 255, 255);
+#segundo {
+    background: rgb(62, 114, 211);
     color: darkgreen;
 }
 
 body {
-    background: darkkhaki;
+    background: dimgray;
+}
+
+#footer {
+    background: darkblue;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
+
+#container {
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#post {
+    background: white;
+    padding: 1em;
 }
