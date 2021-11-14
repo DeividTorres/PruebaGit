@@ -14,6 +14,13 @@ body {
     padding: 0.5em;
 }
 
+#header {
+    background: darkblue;
+    color: white;
+    padding: 0.5em;
+    text-align: center;
+}
+
 #container {
     width: 70%;
     padding: 0;
